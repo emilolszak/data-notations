@@ -31,7 +31,7 @@ Laptop hardware includes:
 4. [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
 5. Internal storage
 
-The top laptop manufacturers inlude:
+The top laptop manufacturers include:
  * HP
  * Lenovo
  * Dell
