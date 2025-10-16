@@ -32,6 +32,6 @@ Laptop hardware includes:
 5. Internal storage
 
 The top laptop manufacturers inlude:
- *HP
- *Lenovo
- *Dell
+ * HP
+ * Lenovo
+ * Dell
