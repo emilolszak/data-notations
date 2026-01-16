@@ -10,9 +10,9 @@ word word word word word word word word word word word word word word word word 
 | Tram | Bus | Train | Night bus |
 |------|-----|-------|-----------|
 | 52   | 153 | S3    | N8        |
-|------|-----|-------|-----------|
+| 43   | 146 | S5 | N3 |
 | 41   | 531 | S4    | N9       |
-|------|-----|-------|-----------|
+
 
 ## Images
 
